@@ -1,7 +1,5 @@
-<h1 style="font-size: 20px;">DIGIART (E-commerce)</h1>
-<hr>
-<span style="font-size: 8px;">Overview</span>
-<hr>
+<h1>DIGIART (E-commerce)</h1>
+<h2>Overview</h2>
 I am thrilled to present a dynamic Digital Art marketplace, meticulously crafted and primed for launch. Our platform serves as a centralized hub for art enthusiasts to explore and acquire meticulously curated digital creations from across the globe.
 <br>
 <span style="font-size: 8px;">Key Features</span>
