@@ -1,4 +1,4 @@
-<span style="font-size: 20px;">DIGIART (E-commerce)</span>
+<h1 style="font-size: 20px;">DIGIART (E-commerce)</h1>
 <hr>
 <span style="font-size: 8px;">Overview</span>
 <hr>
