@@ -19,7 +19,7 @@ I am thrilled to present a dynamic Digital Art marketplace, meticulously crafted
 <h2>How to Use</h2>
 <ol>
 <li>Clone the repository.</li>
-<li>InstalL the dependencies using npm install.</li>
+<li>Install the dependencies using npm install.</li>
 <li>To run the website write node login.js.</li>
 <li>To check the entry of the customer details write node data.js .</li>
 </ol>
