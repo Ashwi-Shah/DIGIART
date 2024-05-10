@@ -1,10 +1,10 @@
-DIGIART (E-commerce)
+<span style="font-size: 15px;">DIGIART (E-commerce)</span>
 <hr>
-Overview
+<span style="font-size: 8px;">Overview</span>
 <hr>
 I am thrilled to present a dynamic Digital Art marketplace, meticulously crafted and primed for launch. Our platform serves as a centralized hub for art enthusiasts to explore and acquire meticulously curated digital creations from across the globe.
 <br>
-Key Features
+<span style="font-size: 8px;">Key Features</span>
 <hr>
 <ul>
 <li>Sleek and intuitive design elements ensure a seamless user experience.</li>
@@ -12,7 +12,7 @@ Key Features
 <li>Responsive layout ensures accessibility across all devices, making art discovery effortless.</li>
 </ul>
 <br>
-Tech Stack
+<span style="font-size: 8px;">Tech Stack</span>
 <hr>
 <ul>
 <li>HTML,CSS and JavaScript for the Front-End.</li>
@@ -20,7 +20,7 @@ Tech Stack
 <li>MySQL for the Database.</li>
 </ul>
 <br>
-How to Use
+<span style="font-size: 8px;">How to Use</span>
 <hr>
 <ol>
 <li>Clone the repository.</li>
@@ -29,6 +29,6 @@ How to Use
 <li>To check the entry of the customer details write node data.js .</li>
 </ol>
 <br>
-Project Status
+<span style="font-size: 8px;">Project Status</span>
 <hr>
 For a visual tour of our Digital Art marketplace, browse through the images and videos below. These snapshots offer a glimpse into the captivating features and seamless functionality of our platform.
