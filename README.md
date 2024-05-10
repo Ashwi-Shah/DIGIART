@@ -8,14 +8,14 @@ I am thrilled to present a dynamic Digital Art marketplace, meticulously crafted
 <li>Robust backend infrastructure guarantees secure transactions and real-time updates.</li>
 <li>Responsive layout ensures accessibility across all devices, making art discovery effortless.</li>
 </ul>
-<br>
+
 <h2>Tech Stack</h2>
 <ul>
 <li>HTML,CSS and JavaScript for the Front-End.</li>
 <li>node.js for the Back-End.</li>
 <li>MySQL for the Database.</li>
 </ul>
-<br>
+
 <h2>How to Use</h2>
 <ol>
 <li>Clone the repository.</li>
@@ -23,6 +23,6 @@ I am thrilled to present a dynamic Digital Art marketplace, meticulously crafted
 <li>To run the website write node login.js.</li>
 <li>To check the entry of the customer details write node data.js .</li>
 </ol>
-<br>
+
 <h2>Project Status</h2>
 For a visual tour of our Digital Art marketplace, browse through the images and videos below. These snapshots offer a glimpse into the captivating features and seamless functionality of our platform.
